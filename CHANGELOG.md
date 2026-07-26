@@ -1,5 +1,14 @@
 # Changelog
 
+## Version 1.0.1 — July 2026
+
+- Added the printed vestment color to all 365 calendar events.
+- Placed the vestment color at the beginning of each event description.
+- Preserved all existing event `UID` values so subscribed calendars update without duplicates.
+- Advanced event revision metadata to `SEQUENCE:1`.
+- Treated the printed calendar as authoritative and ignored handwritten annotations.
+- Kept the subscription address unchanged.
+
 ## Version 1.0.0 — July 2026
 
 - Initial public subscription release.

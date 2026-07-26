@@ -19,3 +19,7 @@ Selected notes are drawn only from the supplied:
 ## Updating the feed
 
 Replace `calendar.ics` while keeping the same filename and existing event `UID` values. Commit the replacement to the `main` branch. GitHub Pages will publish the update at the same subscription URL.
+
+## Current release
+
+**Version 1.0.1** adds a consistently formatted vestment color to every day.
