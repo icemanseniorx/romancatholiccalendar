@@ -15,6 +15,7 @@ Selected notes are drawn only from the supplied:
 - Father Lasance Missal
 - The Raccolta
 - Pilgrim Walks in Rome
+- *Lives of the Saints* (compiled from Rev. Alban Butler)
 
 ## Updating the feed
 
@@ -22,4 +23,4 @@ Replace `calendar.ics` while keeping the same filename and existing event `UID` 
 
 ## Current release
 
-**Version 1.0.1** adds a consistently formatted vestment color to every day.
+**Version 1.0.3** retains the vestment colors and date-matched saint lives, and identifies the First Friday and First Saturday of every month. Alerts remain limited to designated fast and abstinence days.

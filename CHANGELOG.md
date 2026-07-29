@@ -1,5 +1,19 @@
 # Changelog
 
+## Version 1.0.3 — July 2026
+
+- Added a “First Friday of the Month” indication to all 12 First Fridays.
+- Added a “First Saturday of the Month” indication to all 12 First Saturdays.
+- Added no new alerts; notifications remain limited to designated fast and abstinence days.
+- Preserved all 365 event `UID` values and advanced event revision metadata to `SEQUENCE:3`.
+
+## Version 1.0.2 — July 2026
+
+- Added concise, date-matched notes sourced from *Lives of the Saints* (compiled from Rev. Alban Butler).
+- Added a note only when the source's dated saint or feast is already listed on the corresponding printed-calendar date, including a secondary commemoration when applicable.
+- Preserved all 365 event `UID` values, all fast/abstinence content and alerts, and the subscription address.
+- Advanced event revision metadata to `SEQUENCE:2`.
+
 ## Version 1.0.1 — July 2026
 
 - Added the printed vestment color to all 365 calendar events.
