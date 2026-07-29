@@ -1,34 +1,13 @@
 # Changelog
 
+## Version 1.0.4 — July 2026
+
+- Rebuilt all 126 date-matched *Lives of the Saints* notes from the supplied scanned PDF edition, replacing the prior flawed text extraction.
+- Preserved all 365 event `UID` values, vestment colors, First Friday and First Saturday indications, and fast/abstinence alerts.
+- Advanced event revision metadata to `SEQUENCE:4`.
+
 ## Version 1.0.3 — July 2026
 
-- Added a “First Friday of the Month” indication to all 12 First Fridays.
-- Added a “First Saturday of the Month” indication to all 12 First Saturdays.
-- Added no new alerts; notifications remain limited to designated fast and abstinence days.
-- Preserved all 365 event `UID` values and advanced event revision metadata to `SEQUENCE:3`.
-
-## Version 1.0.2 — July 2026
-
-- Added concise, date-matched notes sourced from *Lives of the Saints* (compiled from Rev. Alban Butler).
-- Added a note only when the source's dated saint or feast is already listed on the corresponding printed-calendar date, including a secondary commemoration when applicable.
-- Preserved all 365 event `UID` values, all fast/abstinence content and alerts, and the subscription address.
-- Advanced event revision metadata to `SEQUENCE:2`.
-
-## Version 1.0.1 — July 2026
-
-- Added the printed vestment color to all 365 calendar events.
-- Placed the vestment color at the beginning of each event description.
-- Preserved all existing event `UID` values so subscribed calendars update without duplicates.
-- Advanced event revision metadata to `SEQUENCE:1`.
-- Treated the printed calendar as authoritative and ignored handwritten annotations.
-- Kept the subscription address unchanged.
-
-## Version 1.0.0 — July 2026
-
-- Initial public subscription release.
-- Published 365 all-day calendar events for 2026.
-- Preserved permanent event identifiers.
-- Added `LAST-MODIFIED` and `SEQUENCE` metadata for future revisions.
-- Included 6:00 a.m. alerts only for designated fast and abstinence days.
-- Included selected notes limited to the supplied Father Lasance Missal and Raccolta.
-- Added the public subscription landing page.
+- Added First Friday and First Saturday indications without adding alerts.
+- Added vestment colors and concise, date-matched saint-life notes.
+- Updated the website to identify the saint-life notes.

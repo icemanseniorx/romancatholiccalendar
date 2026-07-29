@@ -23,4 +23,4 @@ Replace `calendar.ics` while keeping the same filename and existing event `UID` 
 
 ## Current release
 
-**Version 1.0.3** retains the vestment colors and date-matched saint lives, and identifies the First Friday and First Saturday of every month. Alerts remain limited to designated fast and abstinence days.
+**Version 1.0.4** retains the vestment colors, First Friday and First Saturday indications, and date-matched saint lives. The saint-life notes were rebuilt from the supplied scanned PDF edition of *Lives of the Saints*.
