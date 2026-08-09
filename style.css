@@ -166,34 +166,20 @@ summary {
   margin: 0.6rem 0;
 }
 
-.alert-guide {
-  display: grid;
-  gap: 1.25rem;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  justify-items: center;
-  margin-top: 1.5rem;
-}
-
-.alert-guide figure {
+.instruction-shot {
   margin: 0;
+  padding: 0.8rem 0 0.35rem;
   min-width: 0;
 }
 
-.alert-guide img {
+.instruction-shot img {
   border: 1px solid #d6d0c4;
   border-radius: 12px;
   display: block;
   height: auto;
   margin: 0 auto;
   max-width: 100%;
-  width: 180px;
-}
-
-.alert-guide figcaption {
-  color: #665f54;
-  font-size: 0.95rem;
-  margin-top: 0.65rem;
-  text-align: center;
+  width: 220px;
 }
 
 footer {
@@ -221,7 +207,4 @@ footer p {
     padding: 22px;
   }
 
-  .alert-guide {
-    grid-template-columns: 1fr;
-  }
 }
