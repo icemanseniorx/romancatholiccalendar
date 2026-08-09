@@ -1,11 +1,11 @@
 # Changelog
 
+## Version 1.0.6 — August 2026
+
+- Replaced the ineffective all-day-event alarms with 95 transparent one-minute 6:00 a.m. Eastern discipline reminder events.
+- Each reminder uses an at-time alert and plainly states Fast, Partial Abstinence, Complete Abstinence, or the applicable combination.
+- Preserved all 365 all-day calendar event `UID` values and all existing calendar content.
+
 ## Version 1.0.5 — August 2026
 
-- Replaced relative discipline-day alarms with explicit 6:00 a.m. Eastern absolute alarms for all 95 Fast, Partial Abstinence, and Complete Abstinence days.
-- Preserved all 365 event `UID` values, all-day calendar entries, vestment colors, saint-life notes, and First Friday/First Saturday indications.
-- Advanced event revision metadata to `SEQUENCE:5`.
-
-## Version 1.0.4 — July 2026
-
-- Rebuilt date-matched *Lives of the Saints* notes from the supplied scanned PDF edition.
+- Replaced relative discipline-day alarms with explicit 6:00 a.m. Eastern absolute alarms.

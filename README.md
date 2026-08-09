@@ -23,4 +23,4 @@ Replace `calendar.ics` while keeping the same filename and existing event `UID` 
 
 ## Current release
 
-**Version 1.0.5** retains the vestment colors, date-matched saint lives, and First Friday/First Saturday indications. Every designated Fast, Partial Abstinence, or Complete Abstinence day has an explicit 6:00 a.m. Eastern alert for more reliable iPhone calendar notifications.
+**Version 1.0.6** retains the all-day liturgical calendar, vestment colors, date-matched saint lives, and First Friday/First Saturday indications. Designated discipline days also include a transparent one-minute 6:00 a.m. Eastern reminder event for reliable iPhone notifications.
