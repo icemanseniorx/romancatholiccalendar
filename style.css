@@ -169,12 +169,14 @@ summary {
 .alert-guide {
   display: grid;
   gap: 1.25rem;
-  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  justify-items: center;
   margin-top: 1.5rem;
 }
 
 .alert-guide figure {
   margin: 0;
+  min-width: 0;
 }
 
 .alert-guide img {
@@ -184,6 +186,7 @@ summary {
   height: auto;
   margin: 0 auto;
   max-width: 100%;
+  width: 210px;
 }
 
 .alert-guide figcaption {
@@ -216,5 +219,9 @@ footer p {
 
   .card {
     padding: 22px;
+  }
+
+  .alert-guide {
+    grid-template-columns: 1fr;
   }
 }
