@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 1.0.10 — August 2026
+
+- Replaced the full-height iPhone screenshots with tightly cropped control and confirmation images.
+
 ## Version 1.0.9 — August 2026
 
 - Resized the iPhone setup screenshots into compact side-by-side guides on desktop, with a single-column layout on phones.
