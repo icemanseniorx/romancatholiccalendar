@@ -23,4 +23,4 @@ Replace `calendar.ics` while keeping the same filename and existing event `UID` 
 
 ## Current release
 
-**Version 1.0.7** retains the vestment colors, date-matched saint lives, and First Friday/First Saturday indications. Every designated Fast, Partial Abstinence, or Complete Abstinence day has an explicit 6:00 a.m. Eastern alert on its all-day calendar entry. On iPhone, subscribers must leave the calendar's “Remove Alerts” setting turned off.
+**Version 1.0.8** retains the vestment colors, date-matched saint lives, and First Friday/First Saturday indications. Every designated Fast, Partial Abstinence, or Complete Abstinence day has an explicit 6:00 a.m. Eastern alert on its all-day calendar entry. The website now provides illustrated iPhone subscription instructions: keep Event Alerts on and turn Remove Alerts off during setup.

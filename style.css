@@ -154,6 +154,45 @@ summary {
   padding: 8px 8px 26px;
 }
 
+.iphone-alerts {
+  margin-top: 1.5rem;
+}
+
+.iphone-alerts ol {
+  padding-left: 1.35rem;
+}
+
+.iphone-alerts li {
+  margin: 0.6rem 0;
+}
+
+.alert-guide {
+  display: grid;
+  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  margin-top: 1.5rem;
+}
+
+.alert-guide figure {
+  margin: 0;
+}
+
+.alert-guide img {
+  border: 1px solid #d6d0c4;
+  border-radius: 12px;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.alert-guide figcaption {
+  color: #665f54;
+  font-size: 0.95rem;
+  margin-top: 0.65rem;
+  text-align: center;
+}
+
 footer {
   border-top: 1px solid var(--rule);
   padding-top: 20px;

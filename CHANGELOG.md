@@ -1,5 +1,10 @@
 # Changelog
 
+## Version 1.0.8 — August 2026
+
+- Added prominent illustrated iPhone subscription instructions.
+- Clarified that Event Alerts must remain on and Remove Alerts must be turned off during subscription setup to preserve the calendar’s supplied alerts.
+
 ## Version 1.0.7 — August 2026
 
 - Restored the 95 explicit 6:00 a.m. Eastern alerts directly to their corresponding all-day Fast, Partial Abstinence, and Complete Abstinence events.
