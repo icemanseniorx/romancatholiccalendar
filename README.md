@@ -23,4 +23,4 @@ Replace `calendar.ics` while keeping the same filename and existing event `UID` 
 
 ## Current release
 
-**Version 1.0.4** retains the vestment colors, First Friday and First Saturday indications, and date-matched saint lives. The saint-life notes were rebuilt from the supplied scanned PDF edition of *Lives of the Saints*.
+**Version 1.0.5** retains the vestment colors, date-matched saint lives, and First Friday/First Saturday indications. Every designated Fast, Partial Abstinence, or Complete Abstinence day has an explicit 6:00 a.m. Eastern alert for more reliable iPhone calendar notifications.
