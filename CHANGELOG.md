@@ -1,5 +1,11 @@
 # Changelog
 
+## Version 1.0.13 — August 2026
+
+- Replaced the shortened saint-life summaries with full dated entries from the scanned *Lives of the Saints* source.
+- Omitted the source’s separate Reflection sections while preserving each entry’s complete biographical text.
+- Restored the complete St. Clare entry, including the continuation after “Already she had.”
+
 ## Version 1.0.12 — August 2026
 
 - Reconciled the scanned *Lives of the Saints* source against every calendar date rather than relying only on the earlier matched-note list.
