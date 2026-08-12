@@ -23,4 +23,4 @@ Replace `calendar.ics` while keeping the same filename and existing event `UID` 
 
 ## Current release
 
-**Version 1.0.11** retains the vestment colors, date-matched saint lives, and First Friday/First Saturday indications. Every designated Fast, Partial Abstinence, or Complete Abstinence day has an explicit 6:00 a.m. Eastern alert on its all-day calendar entry. The website provides compact illustrated iPhone subscription instructions, with each image placed directly beneath its corresponding step.
+**Version 1.0.12** retains the vestment colors, date-matched saint lives, and First Friday/First Saturday indications. Every designated Fast, Partial Abstinence, or Complete Abstinence day has an explicit 6:00 a.m. Eastern alert on its all-day calendar entry. The Lives of the Saints notes have been reconciled against the scanned source to add previously missed matching entries, including Saints Tiburtius and Susanna.
